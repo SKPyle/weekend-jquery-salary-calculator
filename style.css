@@ -1,0 +1,40 @@
+header{
+    font-size: 30px;
+}
+
+h1{
+text-align: left;
+color: navy;
+font-size: xx-large;
+
+}
+
+body{
+   
+  background-position: center;
+  background-size: cover;
+  padding: 20px;
+  text-align: center;
+  background-color: lightcyan;
+  
+  
+}
+div{
+padding: auto;
+    float: left;
+}
+
+#empSubmit{
+text-align: left;
+   
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
