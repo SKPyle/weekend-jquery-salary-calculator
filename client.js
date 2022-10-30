@@ -3,7 +3,7 @@ $(document).ready(readyNow);
 //let posts = [];
 let submissions = []; 
 let totalSalary = [];
-let isolatedSalary = [];
+
 
 
 function readyNow() {
@@ -41,8 +41,9 @@ for (let submission of submissions){  //looping  through submissions and display
 function calculateTotalSalary(){              // should calculate employee combined salaries
   console.log('in calculatingTotalSalary');
   
- let isolatedSalary = {
-    annualSalary:$('#annualSalary')};
+ ('#annualSalary');
+
+ 
 
 
 
